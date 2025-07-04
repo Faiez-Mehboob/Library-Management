@@ -36,11 +36,11 @@ This C++ project is a simulation of the classic **Reader-Writer Problem**, imple
 
 ## 🧪 Features
 
-- 🔁 Threaded simulation of readers and writers accessing the library
-- 📖 Display and manage a list of books
-- 📊 Track total number of reads and writes
-- 🧠 Safe concurrent access using synchronization primitives
-- 🧪 Manual testing with randomized thread behavior
+- Threaded simulation of readers and writers accessing the library
+- Display and manage a list of books
+- Track total number of reads and writes
+- Safe concurrent access using synchronization primitives
+- Manual testing with randomized thread behavior
 
 
 ## 💻 How to Run
